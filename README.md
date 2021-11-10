@@ -4,12 +4,7 @@ In this game the player have to rich the other side of the road before the cars 
 The player gets 3 lives for the beginning, 
 GOOD LUCK!
 
-
-# The Jewish Struggle
-
-**The Israeli struggle against Arab armies**
-
-## מהות המשחק
+## About:
 משחק יריות וטריוויה המדמה את המאבק של מדינת ישראל מהמקמתה ועד היום. השחקן יילחם שחייל בצה"ל כנגד צבאות ערב. בכל משימה העלילה תהיה על אירוע מרכזי שקרה ותשאל שאלת טריוויה בנושא, המשתתף ייצטרך לענות נכונה בכדי להמשיך לשחק.
 
 הפלטפורמות שאליהן נועד המשחק הן: מחשב רגיל, קונסולת משחקים (סוניפלייסטיישן, אקסבוקס).
