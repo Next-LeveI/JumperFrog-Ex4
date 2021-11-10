@@ -16,6 +16,5 @@ This game based on a game that belongs to:
 * Player - the player is a car that simulates the frog.
 * Adding lives to the player and return him to the starting point in case a car hits him.
 * Adding Prefabs (4 types of different cars).
-* ![הורדה](https://user-images.githubusercontent.com/63556870/139678022-f6628912-5692-44d3-91ed-a7e4917907d0.png)
 </div>
 
