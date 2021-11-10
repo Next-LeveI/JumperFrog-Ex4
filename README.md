@@ -9,7 +9,7 @@ GOOD LUCK!
 
 
 
-![הורדה-_3_](https://github.com/gamedev-at-ariel)
+![Thanks to Dr Erel Segal-Halevi](https://github.com/gamedev-at-ariel)
 
 ---
 
